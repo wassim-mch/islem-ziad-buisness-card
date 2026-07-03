@@ -103,7 +103,7 @@ function Loader({ onDone }) {
             className="text-center space-y-1"
           >
             <p className="text-xs tracking-[0.28em] uppercase font-medium" style={{ color: 'rgba(0,0,0,0.65)' }}>
-              Loading Portfolio...
+              Loading Links
             </p>
             <p className="text-xs tracking-[0.35em] uppercase font-light" style={{ color: 'rgba(0,0,0,0.3)' }}>
               Graphic Designer
